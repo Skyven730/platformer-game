@@ -1,2 +1,15 @@
-# platformer-game
-It's a platformer game that's currently under development, it's more about giving me a chance to practice making a game than turning it into a major project.
+# Platformer Game
+
+Prototype de jeu de plateforme réalisé avec Unity.
+
+## Contenu actuel
+- Déplacement du joueur
+- Premiers tests gameplay
+- Prototype en cours de développement
+
+## Technologies
+- Unity
+- C#
+
+Projet personnel pour apprendre le développement de jeu et expérimenter différentes mécaniques.
+
